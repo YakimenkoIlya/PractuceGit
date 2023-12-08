@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="433.0" prefWidth="624.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.practice_one.page_118.Page118">
+   <children>
+      <Button fx:id="B" layoutX="4.0" layoutY="361.0" mnemonicParsing="false" onAction="#buttonClick" text="[1][1]">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Button>
+      <Label fx:id="currentDice" layoutX="261.0" layoutY="175.0" maxWidth="300.0" text="[1][1]" textAlignment="CENTER">
+         <font>
+            <Font size="34.0" />
+         </font>
+      </Label>
+      <Label fx:id="compDicesCount" layoutX="432.0" layoutY="14.0" text="Костяшек у оппонента:" />
+      <Button fx:id="B1" layoutX="66.0" layoutY="361.0" mnemonicParsing="false" onAction="#buttonClick1" text="[1][1]">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Button>
+      <Button fx:id="B2" layoutX="128.0" layoutY="361.0" mnemonicParsing="false" onAction="#buttonClick2" text="[1][1]">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Button>
+      <Button fx:id="B3" layoutX="192.0" layoutY="361.0" mnemonicParsing="false" onAction="#buttonClick3" text="[1][1]">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Button>
+      <Button fx:id="B4" layoutX="254.0" layoutY="361.0" mnemonicParsing="false" onAction="#buttonClick4" text="[1][1]">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Button>
+      <Button fx:id="B5" layoutX="316.0" layoutY="361.0" mnemonicParsing="false" onAction="#buttonClick5" text="[1][1]">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Button>
+      <Button fx:id="B6" layoutX="378.0" layoutY="361.0" mnemonicParsing="false" onAction="#buttonClick6" text="[1][1]">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Button>
+      <Button fx:id="B7" layoutX="440.0" layoutY="361.0" mnemonicParsing="false" onAction="#buttonClick7" text="[1][1]">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Button>
+      <Button fx:id="B8" layoutX="502.0" layoutY="361.0" mnemonicParsing="false" onAction="#buttonClick8" text="[1][1]">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Button>
+      <Button fx:id="B9" layoutX="564.0" layoutY="361.0" mnemonicParsing="false" onAction="#buttonClick9" text="[1][1]">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Button>
+      <Button fx:id="B10" layoutX="4.0" layoutY="397.0" mnemonicParsing="false" onAction="#buttonClick10" text="[1][1]">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Button>
+      <Button fx:id="B11" layoutX="66.0" layoutY="397.0" mnemonicParsing="false" onAction="#buttonClick11" text="[1][1]">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Button>
+      <Button fx:id="B12" layoutX="128.0" layoutY="397.0" mnemonicParsing="false" onAction="#buttonClick12" text="[1][1]">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Button>
+      <Button fx:id="B13" layoutX="192.0" layoutY="397.0" mnemonicParsing="false" onAction="#buttonClick13" text="[1][1]">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Button>
+      <Button fx:id="B14" layoutX="254.0" layoutY="397.0" mnemonicParsing="false" onAction="#buttonClick14" text="[1][1]">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Button>
+      <Button fx:id="B15" layoutX="316.0" layoutY="397.0" mnemonicParsing="false" onAction="#buttonClick15" text="[1][1]">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Button>
+      <Button fx:id="B16" layoutX="378.0" layoutY="397.0" mnemonicParsing="false" onAction="#buttonClick16" text="[1][1]">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Button>
+      <Button fx:id="B17" layoutX="440.0" layoutY="397.0" mnemonicParsing="false" onAction="#buttonClick17" text="[1][1]">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Button>
+      <Button fx:id="B18" layoutX="502.0" layoutY="397.0" mnemonicParsing="false" onAction="#buttonClick18" text="[1][1]">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Button>
+      <Button fx:id="B19" layoutX="564.0" layoutY="397.0" mnemonicParsing="false" onAction="#buttonClick19" text="[1][1]">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>
